@@ -1,6 +1,6 @@
 # res
 This folder stores the resources for the CJ5B Wars events.
-## img
+### img
 This subfolder stores images.
-## obj
+### obj
 This subfolder stores objects.
